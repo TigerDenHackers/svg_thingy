@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+  "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+  <?xml-stylesheet href="base.css" type="text/css"?>
+  <?xml-stylesheet href="overrides.css" type="text/css"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="300" height="300"
+   >
+  <title>Playing around</title>
+
+  <circle cx="150" cy="150" r="125" class="custom" />
+  <line x1="100" y1="100" x2="200" y2="200" class="custom" />
+</svg>
